@@ -1,0 +1,38 @@
+body {
+  background-color: rgba(213, 10, 10, 0.967);
+  color: #000000;
+}
+.img {
+  border-radius: 60px;
+  box-shadow: 12px 12px 20px 5px;
+  width: 400px;
+  height: 400px;
+}
+.info {
+  background-color: rgb(244, 215, 127);
+  color: rgb(166, 0, 0);
+  font-size: 40px;
+  border-radius: 30px;
+  width: 900px;
+  height: 300px;
+}
+.box {
+  background-color: rgb(244, 215, 127);
+  color: rgb(166, 0, 0);
+  font-size: 40px;
+  border-radius: 30px;
+  width: 900px;
+  height: 300px;
+}
+.size {
+  max-width: 1000px;
+  margin: auto;
+}
+.text1 {
+  background-color: rgb(244, 215, 127);
+  color: rgb(166, 0, 0);
+  font-size: 40px;
+  border-radius: 30px;
+  width: 900px;
+  height: 400px;
+}
